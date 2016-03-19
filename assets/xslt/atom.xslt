@@ -9,8 +9,8 @@
 			<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>Atom Feed (Styled)</title>
-	<link rel="stylesheet" type="text/css" href="http://nghin.github.io/aucocenter.org//assets/css/styles_feeling_responsive.css" />
-	<script src="http://nghin.github.io/aucocenter.org//assets/js/modernizr.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://auco-web.github.io/aucocenter.org//assets/css/styles_feeling_responsive.css" />
+	<script src="http://auco-web.github.io/aucocenter.org//assets/js/modernizr.min.js"></script>
 	
 <!-- NO GOOGLE FONTS
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
@@ -38,67 +38,67 @@ NO GOOGLE FONTS -->
 
 
 	
-	<link rel="icon" sizes="32x32" href="http://nghin.github.io/aucocenter.org//assets/img/favicon-32x32.png" />
+	<link rel="icon" sizes="32x32" href="http://auco-web.github.io/aucocenter.org//assets/img/favicon-32x32.png" />
 
 
 
 
 	
-	<link rel="icon" sizes="192x192" href="http://nghin.github.io/aucocenter.org//assets/img/touch-icon-192x192.png" />
+	<link rel="icon" sizes="192x192" href="http://auco-web.github.io/aucocenter.org//assets/img/touch-icon-192x192.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://nghin.github.io/aucocenter.org//assets/img/apple-touch-icon-180x180-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://auco-web.github.io/aucocenter.org//assets/img/apple-touch-icon-180x180-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://nghin.github.io/aucocenter.org//assets/img/apple-touch-icon-152x152-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://auco-web.github.io/aucocenter.org//assets/img/apple-touch-icon-152x152-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://nghin.github.io/aucocenter.org//assets/img/apple-touch-icon-144x144-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://auco-web.github.io/aucocenter.org//assets/img/apple-touch-icon-144x144-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://nghin.github.io/aucocenter.org//assets/img/apple-touch-icon-120x120-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://auco-web.github.io/aucocenter.org//assets/img/apple-touch-icon-120x120-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://nghin.github.io/aucocenter.org//assets/img/apple-touch-icon-114x114-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://auco-web.github.io/aucocenter.org//assets/img/apple-touch-icon-114x114-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://nghin.github.io/aucocenter.org//assets/img/apple-touch-icon-76x76-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://auco-web.github.io/aucocenter.org//assets/img/apple-touch-icon-76x76-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://nghin.github.io/aucocenter.org//assets/img/apple-touch-icon-72x72-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://auco-web.github.io/aucocenter.org//assets/img/apple-touch-icon-72x72-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" href="http://nghin.github.io/aucocenter.org//assets/img/apple-touch-icon-precomposed.png" />	
+	<link rel="apple-touch-icon-precomposed" href="http://auco-web.github.io/aucocenter.org//assets/img/apple-touch-icon-precomposed.png" />	
 
 
 
 
 	
-	<meta name="msapplication-TileImage" content="http://nghin.github.io/aucocenter.org//assets/img/msapplication_tileimage.png" />
+	<meta name="msapplication-TileImage" content="http://auco-web.github.io/aucocenter.org//assets/img/msapplication_tileimage.png" />
 
 
 
@@ -113,7 +113,7 @@ NO GOOGLE FONTS -->
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Atom Feed (Styled)" />
 	<meta property="og:description" content="Au Co Vietnamese Cultural Center established to promote and preserve the language and the broad-minded humanity culture of the Vietnamese people" />
-	<meta property="og:url" content="http://nghin.github.io/aucocenter.org///assets/xslt/atom.xslt" />
+	<meta property="og:url" content="http://auco-web.github.io/aucocenter.org///assets/xslt/atom.xslt" />
 	<meta property="og:site_name" content="Au Co&nbsp;&mdash;&nbsp;Vietnamese Cultural Center" />
 	
 
@@ -122,7 +122,7 @@ NO GOOGLE FONTS -->
 	<!-- Search Engine Optimization -->
 	
 
-	<link type="text/plain" rel="author" href="http://nghin.github.io/aucocenter.org//humans.txt" />
+	<link type="text/plain" rel="author" href="http://auco-web.github.io/aucocenter.org//humans.txt" />
 
 	
 </head>
@@ -136,7 +136,7 @@ NO GOOGLE FONTS -->
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://nghin.github.io/aucocenter.org/" class="icon-tree"> Au Co&nbsp;&mdash;&nbsp;Vietnamese Cultural Center</a></h1>
+      <h1 class="show-for-small-only"><a href="http://auco-web.github.io/aucocenter.org/" class="icon-tree"> Au Co&nbsp;&mdash;&nbsp;Vietnamese Cultural Center</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -182,7 +182,7 @@ NO GOOGLE FONTS -->
 
             
             
-              <li><a href="http://nghin.github.io/aucocenter.org//">HOME</a></li>
+              <li><a href="http://auco-web.github.io/aucocenter.org//">HOME</a></li>
               <li class="divider"></li>
 
             
@@ -199,14 +199,14 @@ NO GOOGLE FONTS -->
             
 
               <li class="has-dropdown">
-                <a href="http://nghin.github.io/aucocenter.org//blog/">Events Blog</a>
+                <a href="http://auco-web.github.io/aucocenter.org//blog/">Events Blog</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="http://nghin.github.io/aucocenter.org//blog/archive/">Blog Archive</a></li>
+                      <li><a href="http://auco-web.github.io/aucocenter.org//blog/archive/">Blog Archive</a></li>
                     
                   </ul>
                   
@@ -223,7 +223,7 @@ NO GOOGLE FONTS -->
 
             
             
-              <li><a href="http://nghin.github.io/aucocenter.org//contact/">Contact</a></li>
+              <li><a href="http://auco-web.github.io/aucocenter.org//contact/">Contact</a></li>
               <li class="divider"></li>
 
             
@@ -240,24 +240,24 @@ NO GOOGLE FONTS -->
             
 
               <li class="has-dropdown">
-                <a href="http://nghin.github.io/aucocenter.org/">About Au Co</a>
+                <a href="http://auco-web.github.io/aucocenter.org/">About Au Co</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="http://nghin.github.io/aucocenter.org//programs/">Programs</a></li>
+                      <li><a href="http://auco-web.github.io/aucocenter.org//programs/">Programs</a></li>
                     
 
                       
 
-                      <li><a href="http://nghin.github.io/aucocenter.org//brochure/">Brochure</a></li>
+                      <li><a href="http://auco-web.github.io/aucocenter.org//brochure/">Brochure</a></li>
                     
 
                       
 
-                      <li><a href="http://nghin.github.io/aucocenter.org//directions/">Directions to Au Co</a></li>
+                      <li><a href="http://auco-web.github.io/aucocenter.org//directions/">Directions to Au Co</a></li>
                     
                   </ul>
                   
@@ -277,8 +277,8 @@ NO GOOGLE FONTS -->
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://nghin.github.io/aucocenter.org/" title="Au Co&nbsp;&mdash;&nbsp;Vietnamese Cultural Center – Preserve - Promote - Practice">
-				<img src="http://nghin.github.io/aucocenter.org//assets/img/logo.png" alt="Au Co&nbsp;&mdash;&nbsp;Vietnamese Cultural Center – Preserve - Promote - Practice">
+			<a id="logo" href="http://auco-web.github.io/aucocenter.org/" title="Au Co&nbsp;&mdash;&nbsp;Vietnamese Cultural Center – Preserve - Promote - Practice">
+				<img src="http://auco-web.github.io/aucocenter.org//assets/img/logo.png" alt="Au Co&nbsp;&mdash;&nbsp;Vietnamese Cultural Center – Preserve - Promote - Practice">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -356,7 +356,7 @@ NO GOOGLE FONTS -->
 
             <p class="shadow-black">
               Au Co Vietnamese Cultural Center established to promote and preserve the language and the broad-minded humanity culture of the Vietnamese people
-              <a href="http://nghin.github.io/aucocenter.org//who-we-are/">More ›</a>
+              <a href="http://auco-web.github.io/aucocenter.org//who-we-are/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -374,12 +374,12 @@ NO GOOGLE FONTS -->
               
                 
                   <li >
-                    <a href="http://nghin.github.io/aucocenter.org/"  title=""></a>
+                    <a href="http://auco-web.github.io/aucocenter.org/"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="http://nghin.github.io/aucocenter.org//contact/"  title="Contact">Contact</a>
+                    <a href="http://auco-web.github.io/aucocenter.org//contact/"  title="Contact">Contact</a>
                   </li>
               
               </ul>
@@ -399,12 +399,12 @@ NO GOOGLE FONTS -->
             
               
                 <li >
-                  <a href="http://nghin.github.io/aucocenter.org/"  title=""></a>
+                  <a href="http://auco-web.github.io/aucocenter.org/"  title=""></a>
                 </li>
             
               
                 <li >
-                  <a href="http://nghin.github.io/aucocenter.org//english/mission-statement/"  title="OUR MISSION">Preserve the Vietnamese Language and Culture. Programs for Youth Development.</a>
+                  <a href="http://auco-web.github.io/aucocenter.org//english/mission-statement/"  title="OUR MISSION">Preserve the Vietnamese Language and Culture. Programs for Youth Development.</a>
                 </li>
             
             </ul>
@@ -436,7 +436,7 @@ NO GOOGLE FONTS -->
       </div><!-- /#subfooter -->
     </footer>
 
-		<script src="http://nghin.github.io/aucocenter.org//assets/js/javascript.min.js"></script>
+		<script src="http://auco-web.github.io/aucocenter.org//assets/js/javascript.min.js"></script>
 
 
 
