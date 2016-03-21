@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://auco-web.github.io/aucocenter.org//sitemap.xml
+Sitemap: http://aucocenter.org/home//sitemap.xml

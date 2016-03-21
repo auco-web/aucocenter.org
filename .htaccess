@@ -1,0 +1,4 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{REQUEST_URI} !(.*)home2 
+RewriteRule ^(.*)$ home2/$1 [L]
