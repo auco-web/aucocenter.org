@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://aucocenter.org/home//</id>
+	<id>http://auco-web.github.io/aucocenter.org/</id>
 	<title>Au Co&amp;nbsp;&amp;mdash;&amp;nbsp;Vietnamese Cultural Center</title>
-	<updated>2016-03-19T11:47:23-07:00</updated>
+	<updated>2016-03-20T23:55:41-07:00</updated>
 
 	<subtitle>Au Co Vietnamese Cultural Center established to promote and preserve the language and the broad-minded humanity culture of the Vietnamese people</subtitle>
 
@@ -23,17 +23,17 @@
 		</author>
 	
 
-	<link href="http://aucocenter.org/home//atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://aucocenter.org/home//" rel="alternate" type="text/html" />
+	<link href="http://auco-web.github.io/aucocenter.org/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://auco-web.github.io/aucocenter.org/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.0.1">Jekyll</generator>
 
 	
 	    
 		<entry>
-			<id>http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-2015/</id>
+			<id>http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-2015/</id>
 			<title>Mid-Autumn Harvest Festival 2015</title>
-			<link href="http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-2015/" rel="alternate" type="text/html" title="Mid-Autumn Harvest Festival 2015" />
+			<link href="http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-2015/" rel="alternate" type="text/html" title="Mid-Autumn Harvest Festival 2015" />
 			<updated>2015-09-09T00:00:00-07:00</updated>
 
 			
@@ -51,7 +51,7 @@
 				</author>
 			
 			<summary>On September 26th, 2015, we invite you to attend the fifth Southeast Asian Arts &amp; Culture Exhibition celebrating the harvest season! The Exhibition helps promote and preserve the arts and culture of the Southeast Asian American communities in San Francisco, and specifically highlights the Indo-Chinese refugee communities which have a history in the Tenderloin.</summary>
-			<content type="html" xml:base="http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-2015/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-2015/">&lt;!--more--&gt;
 &lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
 
   &lt;table style=&quot;border-color: #cccccc; margin-left: auto; margin-right: auto;&quot; border=&quot;1&quot; width=&quot;100%&quot;&gt;
@@ -76,7 +76,7 @@
 
   &lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;http://74.220.215.61/~seaaccsf/en/images/2015/MAHF/Poster_web.jpg&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://aucocenter.org/home//events/Asian-Heritage-Street-Celebration-2015/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://auco-web.github.io/aucocenter.org/events/Asian-Heritage-Street-Celebration-2015/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 </content>
@@ -92,9 +92,9 @@
 	
 	    
 		<entry>
-			<id>http://aucocenter.org/home//events/Asian-Heritage-Street-Celebration-2015/</id>
+			<id>http://auco-web.github.io/aucocenter.org/events/Asian-Heritage-Street-Celebration-2015/</id>
 			<title>Asian Heritage Street Celebration - 2015</title>
-			<link href="http://aucocenter.org/home//events/Asian-Heritage-Street-Celebration-2015/" rel="alternate" type="text/html" title="Asian Heritage Street Celebration - 2015" />
+			<link href="http://auco-web.github.io/aucocenter.org/events/Asian-Heritage-Street-Celebration-2015/" rel="alternate" type="text/html" title="Asian Heritage Street Celebration - 2015" />
 			<updated>2015-05-16T00:00:00-07:00</updated>
 
 			
@@ -112,7 +112,7 @@
 				</author>
 			
 			<summary>Explore the museum for free as a part of this annual program held during the Asian Heritage Street Celebration.</summary>
-			<content type="html" xml:base="http://aucocenter.org/home//events/Asian-Heritage-Street-Celebration-2015/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://auco-web.github.io/aucocenter.org/events/Asian-Heritage-Street-Celebration-2015/">&lt;!--more--&gt;
 &lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
 
   &lt;p&gt;Saturday, May 16, 11 AM–3:30 PM
@@ -123,9 +123,9 @@ Asian Art Museum, free admission courtesy of Target&lt;/p&gt;
 
   &lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto; border: 1px solid #cccccc;&quot; width=&quot;100%&quot; src=&quot;http://74.220.215.61/~seaaccsf/en/images/2015/SEAACC-Street-Celebration-2015.jpg&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-2015/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-2015/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-2014-Report/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-2014-Report/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 </content>
@@ -141,9 +141,9 @@ Asian Art Museum, free admission courtesy of Target&lt;/p&gt;
 	
 	    
 		<entry>
-			<id>http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-2014-Report/</id>
+			<id>http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-2014-Report/</id>
 			<title>Mid-Autumn Harvest Festival Report - 2014</title>
-			<link href="http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-2014-Report/" rel="alternate" type="text/html" title="Mid-Autumn Harvest Festival Report - 2014" />
+			<link href="http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-2014-Report/" rel="alternate" type="text/html" title="Mid-Autumn Harvest Festival Report - 2014" />
 			<updated>2015-04-04T00:00:00-07:00</updated>
 
 			
@@ -161,7 +161,7 @@ Asian Art Museum, free admission courtesy of Target&lt;/p&gt;
 				</author>
 			
 			<summary>On Saturday Sept. 6th, 2014, hundreds of families from all over the Bay Area gathered at the Tenderloin Recreation Center to celebrate the 4th Annual Mid-Autumn Harvest Festival. Hosted by the Southeast Asian Arts &amp; Culture Coalition, this event brings together local organizations from the Cambodian, Laos, Burmese, Thai, and Vietnamese community to partake in dance, music, food sampling, and historical appreciation.</summary>
-			<content type="html" xml:base="http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-2014-Report/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-2014-Report/">&lt;!--more--&gt;
 &lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
 
   &lt;table style=&quot;border-color: #cccccc; margin-left: auto; margin-right: auto;&quot; border=&quot;1&quot; width=&quot;100%&quot;&gt;
@@ -195,9 +195,9 @@ Asian Art Museum, free admission courtesy of Target&lt;/p&gt;
   &lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
 &lt;iframe style=&quot;border:1px solid #cccccc&quot; width=&quot;100%&quot; height=&quot;1400&quot; src=&quot;http://74.220.215.61/~seaaccsf/galleries/index.php/photo-galleries/2-mid-autumn-festival-report-2014&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
-  &lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://aucocenter.org/home//events/Asian-Heritage-Street-Celebration-2015/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://auco-web.github.io/aucocenter.org/events/Asian-Heritage-Street-Celebration-2015/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://aucocenter.org/home//events/40-year-Refugee/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://auco-web.github.io/aucocenter.org/events/40-year-Refugee/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 </content>
@@ -213,9 +213,9 @@ Asian Art Museum, free admission courtesy of Target&lt;/p&gt;
 	
 	    
 		<entry>
-			<id>http://aucocenter.org/home//events/40-year-Refugee/</id>
+			<id>http://auco-web.github.io/aucocenter.org/events/40-year-Refugee/</id>
 			<title>40 Years Refugees Exhibition</title>
-			<link href="http://aucocenter.org/home//events/40-year-Refugee/" rel="alternate" type="text/html" title="40 Years Refugees Exhibition" />
+			<link href="http://auco-web.github.io/aucocenter.org/events/40-year-Refugee/" rel="alternate" type="text/html" title="40 Years Refugees Exhibition" />
 			<updated>2015-02-08T00:00:00-08:00</updated>
 
 			
@@ -233,7 +233,7 @@ Asian Art Museum, free admission courtesy of Target&lt;/p&gt;
 				</author>
 			
 			<summary>An Exhibition to Commemorate Vietnamese Resettlement in the US. This exhibition marks the 40th anniversary of the diaspora of the Vietnamese people and refugee resettlement.  It includes stories of loss, of cultural identities of different generations struggling to co-exist, and of the process of rebuilding a new life in a foreign environment.  This exhibition shares the refugee experience by celebrating the progress of the Vietnamese people worldwide through photography, historical artifacts, a speaker panel, and cultural performances.  Speakers will include Mr. Dieu Khuong Huu, Mr. Phu Van Bui, and Ms. My Linh Nguyen, and cultural performers include the Su Viet Zithers and Master Vu Hong Thinh.</summary>
-			<content type="html" xml:base="http://aucocenter.org/home//events/40-year-Refugee/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://auco-web.github.io/aucocenter.org/events/40-year-Refugee/">&lt;!--more--&gt;
 &lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
 
   &lt;h3 id=&quot;years---an-exhibition-to-commemorate-vietnamese-resettlement-in-the-us&quot;&gt;40 Years - An Exhibition to Commemorate Vietnamese Resettlement in the US&lt;/h3&gt;
@@ -274,11 +274,11 @@ San Francisco Public Library, 100 Larkin Street, San Francisco, CA94102
     &lt;li&gt;or contact@seaacc-sf.org&lt;/li&gt;
   &lt;/ul&gt;
 
-  &lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;http://aucocenter.org/home//images/40th-CVRR-Poster-English.jpg&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;http://auco-web.github.io/aucocenter.org/images/40th-CVRR-Poster-English.jpg&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-2014-Report/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-2014-Report/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-2014/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-2014/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 </content>
@@ -294,9 +294,9 @@ San Francisco Public Library, 100 Larkin Street, San Francisco, CA94102
 	
 	    
 		<entry>
-			<id>http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-2014/</id>
+			<id>http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-2014/</id>
 			<title>Mid-Autumn Harvest Festival 2014</title>
-			<link href="http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-2014/" rel="alternate" type="text/html" title="Mid-Autumn Harvest Festival 2014" />
+			<link href="http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-2014/" rel="alternate" type="text/html" title="Mid-Autumn Harvest Festival 2014" />
 			<updated>2015-01-17T00:00:00-08:00</updated>
 
 			
@@ -314,7 +314,7 @@ San Francisco Public Library, 100 Larkin Street, San Francisco, CA94102
 				</author>
 			
 			<summary>On September 6th, 2014, we invite you to attend the fourth Southeast Asian Arts &amp; Culture Exhibition celebrating the harvest season! The Exhibition helps promote and preserve the arts and culture of the Southeast Asian American communities in San Francisco, and specifically highlights the Indo-Chinese refugee communities which have a history in the Tenderloin.</summary>
-			<content type="html" xml:base="http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-2014/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-2014/">&lt;!--more--&gt;
 &lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
 
   &lt;p&gt;We will have representatives from the Burmese, Cambodian, Laotian, Thai, and Vietnamese communities, as well as the collaboration of the SF Wushu Team participating again. Come celebrate the Mid-Autumn Harvest Festival with us and learn more about the Southeast Asian cultures!&lt;/p&gt;
@@ -329,9 +329,9 @@ San Francisco Public Library, 100 Larkin Street, San Francisco, CA94102
 
   &lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;http://74.220.215.61/~seaaccsf/galleries/images/2014/MAHF-2014-web.jpg&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://aucocenter.org/home//events/40-year-Refugee/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://auco-web.github.io/aucocenter.org/events/40-year-Refugee/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://aucocenter.org/home//events/SEAACC-Public-Forum-Summit-2014/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://auco-web.github.io/aucocenter.org/events/SEAACC-Public-Forum-Summit-2014/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 </content>
@@ -347,9 +347,9 @@ San Francisco Public Library, 100 Larkin Street, San Francisco, CA94102
 	
 	    
 		<entry>
-			<id>http://aucocenter.org/home//events/SEAACC-Public-Forum-Summit-2014/</id>
+			<id>http://auco-web.github.io/aucocenter.org/events/SEAACC-Public-Forum-Summit-2014/</id>
 			<title>SEAACC Public Forum Summit - 2014</title>
-			<link href="http://aucocenter.org/home//events/SEAACC-Public-Forum-Summit-2014/" rel="alternate" type="text/html" title="SEAACC Public Forum Summit - 2014" />
+			<link href="http://auco-web.github.io/aucocenter.org/events/SEAACC-Public-Forum-Summit-2014/" rel="alternate" type="text/html" title="SEAACC Public Forum Summit - 2014" />
 			<updated>2015-01-16T00:00:00-08:00</updated>
 
 			
@@ -367,16 +367,16 @@ San Francisco Public Library, 100 Larkin Street, San Francisco, CA94102
 				</author>
 			
 			<summary>Join SEAACC as we discuss the cultural growth and development of the Tenderloin community. How will Southeast Asian arts and history be brought into the neighborhood, and what improvements can we expect? What educational programs are you looking for? Come share your story.</summary>
-			<content type="html" xml:base="http://aucocenter.org/home//events/SEAACC-Public-Forum-Summit-2014/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://auco-web.github.io/aucocenter.org/events/SEAACC-Public-Forum-Summit-2014/">&lt;!--more--&gt;
 &lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
 
   &lt;p&gt;&lt;img style=&quot;border: 1px solid #ffbbbb&quot; width=&quot;100%&quot; src=&quot;http://74.220.215.61/~seaaccsf/galleries/images/2014/SEAACC-public-forum/Postcard%204x6%20version%203.jpg&quot; /&gt;&lt;/p&gt;
 
   &lt;p&gt;&lt;img style=&quot;border: 1px solid #ffbbbb&quot; width=&quot;100%&quot; src=&quot;http://74.220.215.61/~seaaccsf/galleries/images/2014/SEAACC-public-forum/Postcard%204x6%20back.jpg&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-2014/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-2014/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://aucocenter.org/home//events/10th-Annual-Hill-Physician-Asian-Heritage-Street-Festival/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://auco-web.github.io/aucocenter.org/events/10th-Annual-Hill-Physician-Asian-Heritage-Street-Festival/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 </content>
@@ -392,9 +392,9 @@ San Francisco Public Library, 100 Larkin Street, San Francisco, CA94102
 	
 	    
 		<entry>
-			<id>http://aucocenter.org/home//events/10th-Annual-Hill-Physician-Asian-Heritage-Street-Festival/</id>
+			<id>http://auco-web.github.io/aucocenter.org/events/10th-Annual-Hill-Physician-Asian-Heritage-Street-Festival/</id>
 			<title>Asian Heritage Street Festival</title>
-			<link href="http://aucocenter.org/home//events/10th-Annual-Hill-Physician-Asian-Heritage-Street-Festival/" rel="alternate" type="text/html" title="Asian Heritage Street Festival" />
+			<link href="http://auco-web.github.io/aucocenter.org/events/10th-Annual-Hill-Physician-Asian-Heritage-Street-Festival/" rel="alternate" type="text/html" title="Asian Heritage Street Festival" />
 			<updated>2014-05-17T00:00:00-07:00</updated>
 
 			
@@ -412,7 +412,7 @@ San Francisco Public Library, 100 Larkin Street, San Francisco, CA94102
 				</author>
 			
 			<summary>Event details: “Celebrate Asian Pacific American Heritage Month at the10th Annual Asian Heritage Street Celebration on Saturday, May 17, 2014 from 11 a.m. to 6 p.m. in front of the Asian Art Museum, leading up to the Little Saigon District in San Francisco. Street fair goers will have the chance to learn how to cook delicious pan Asian dishes at the AHSC cooking demonstration stage located at Ellis and Larkin Streets, by celebrity chefs including Martin Yan.</summary>
-			<content type="html" xml:base="http://aucocenter.org/home//events/10th-Annual-Hill-Physician-Asian-Heritage-Street-Festival/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://auco-web.github.io/aucocenter.org/events/10th-Annual-Hill-Physician-Asian-Heritage-Street-Festival/">&lt;!--more--&gt;
 &lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
 
   &lt;ul&gt;
@@ -460,9 +460,9 @@ San Francisco Public Library, 100 Larkin Street, San Francisco, CA94102
 
   &lt;p&gt;&lt;span style=&quot;font-style: italic; color: #888888;&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;Notes: Social media kit, Asian Heritage Street Celebration website – http://asianfairsf.com/media/ahsc-social-media-kit/&lt;/span&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://aucocenter.org/home//events/SEAACC-Public-Forum-Summit-2014/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://auco-web.github.io/aucocenter.org/events/SEAACC-Public-Forum-Summit-2014/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://aucocenter.org/home//events/Vietnamese-Tet-Lunar-New-Year-Festival-2014/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://auco-web.github.io/aucocenter.org/events/Vietnamese-Tet-Lunar-New-Year-Festival-2014/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 </content>
@@ -478,9 +478,9 @@ San Francisco Public Library, 100 Larkin Street, San Francisco, CA94102
 	
 	    
 		<entry>
-			<id>http://aucocenter.org/home//events/Vietnamese-Tet-Lunar-New-Year-Festival-2014/</id>
+			<id>http://auco-web.github.io/aucocenter.org/events/Vietnamese-Tet-Lunar-New-Year-Festival-2014/</id>
 			<title>Vietnamese Tet Lunar New Year Festival - 2014</title>
-			<link href="http://aucocenter.org/home//events/Vietnamese-Tet-Lunar-New-Year-Festival-2014/" rel="alternate" type="text/html" title="Vietnamese Tet Lunar New Year Festival - 2014" />
+			<link href="http://auco-web.github.io/aucocenter.org/events/Vietnamese-Tet-Lunar-New-Year-Festival-2014/" rel="alternate" type="text/html" title="Vietnamese Tet Lunar New Year Festival - 2014" />
 			<updated>2014-01-26T00:00:00-08:00</updated>
 
 			
@@ -498,7 +498,7 @@ San Francisco Public Library, 100 Larkin Street, San Francisco, CA94102
 				</author>
 			
 			<summary>The Lunar New Year festival is based on the Lunar Calendar that many Eastern countries have followed in the past, where the New Year begins in February. This is different than the modern Western calendar where the New Year begins on January 1st.</summary>
-			<content type="html" xml:base="http://aucocenter.org/home//events/Vietnamese-Tet-Lunar-New-Year-Festival-2014/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://auco-web.github.io/aucocenter.org/events/Vietnamese-Tet-Lunar-New-Year-Festival-2014/">&lt;!--more--&gt;
 &lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
 
   &lt;p style=&quot;font-style: italic; font-weight: bold; font-size: 1.0em&quot;&gt;
@@ -524,9 +524,9 @@ Location: Little Saigon, Tenderloin district. Ellis &amp;amp; Larkin street.
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-  &lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://aucocenter.org/home//events/10th-Annual-Hill-Physician-Asian-Heritage-Street-Festival/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://auco-web.github.io/aucocenter.org/events/10th-Annual-Hill-Physician-Asian-Heritage-Street-Festival/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-Report-2013/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-Report-2013/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 </content>
@@ -542,9 +542,9 @@ Location: Little Saigon, Tenderloin district. Ellis &amp;amp; Larkin street.
 	
 	    
 		<entry>
-			<id>http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-Report-2013/</id>
+			<id>http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-Report-2013/</id>
 			<title>Mid-Autumn Harvest Festival Report - 2013</title>
-			<link href="http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-Report-2013/" rel="alternate" type="text/html" title="Mid-Autumn Harvest Festival Report - 2013" />
+			<link href="http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-Report-2013/" rel="alternate" type="text/html" title="Mid-Autumn Harvest Festival Report - 2013" />
 			<updated>2013-10-04T00:00:00-07:00</updated>
 
 			
@@ -562,7 +562,7 @@ Location: Little Saigon, Tenderloin district. Ellis &amp;amp; Larkin street.
 				</author>
 			
 			<summary>On the 14th of September 2013, the Southeast Asian Arts &amp; Culture Coalition held its 3rd Annual Mid-Autumn Harvest Festival at the Tenderloin Recreation Center. The coalition comprises of a number of Bay Area organizations and its leaders representing the Burmese, Cambodian, Laotian, Thai and Vietnamese community.</summary>
-			<content type="html" xml:base="http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-Report-2013/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-Report-2013/">&lt;!--more--&gt;
 &lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
 
   &lt;p&gt;SEAACC’s mission is to advance the visibility and vitality of each Southeast Asian culture through various educational, social, and cultural activities with an aim to strengthen relationships between Southeast Asian communities in the San Francisco Bay Area. The festival we have today demonstrates just that. It brings together people near and far, from all walks of life to celebrate the beauty of the Southeast Asian heritage. You can see people young and old come together despite cultural differences, to support a greater purpose of strengthening relationships between people and cultures.&lt;/p&gt;
@@ -576,9 +576,9 @@ Location: Little Saigon, Tenderloin district. Ellis &amp;amp; Larkin street.
 
   &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://aucocenter.org/home//events/Vietnamese-Tet-Lunar-New-Year-Festival-2014/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://auco-web.github.io/aucocenter.org/events/Vietnamese-Tet-Lunar-New-Year-Festival-2014/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-2013/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-2013/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 </content>
@@ -594,9 +594,9 @@ Location: Little Saigon, Tenderloin district. Ellis &amp;amp; Larkin street.
 	
 	    
 		<entry>
-			<id>http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-2013/</id>
+			<id>http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-2013/</id>
 			<title>Mid-Autumn Harvest Festival 2013</title>
-			<link href="http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-2013/" rel="alternate" type="text/html" title="Mid-Autumn Harvest Festival 2013" />
+			<link href="http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-2013/" rel="alternate" type="text/html" title="Mid-Autumn Harvest Festival 2013" />
 			<updated>2013-09-14T00:00:00-07:00</updated>
 
 			
@@ -614,7 +614,7 @@ Location: Little Saigon, Tenderloin district. Ellis &amp;amp; Larkin street.
 				</author>
 			
 			<summary>This holiday also has a huge emphasis on children. Because the summer’s harvest consisted of long hours of labor in the rice fields, it was thought that the festival helped many parents spend more time with their children and loved ones. In terms of food served at the festival, mooncakes have a cultural significance during this holiday. In ancient folklore, many believe that mooncakes were used to conceal secret messages during wartime. Mooncakes have a distinct flavor, and is made up of mainly egg yolk, lotus seeds, and ground beans.</summary>
-			<content type="html" xml:base="http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-2013/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-2013/">&lt;!--more--&gt;
 &lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
 
   &lt;p style=&quot;font-style: italic; font-weight: bold; font-size: 1.0em&quot;&gt;
@@ -642,9 +642,9 @@ Location: Tenderloin Children’s Playground. 570 Ellis Street San Francisco, CA
 
 &lt;/div&gt;
 
-&lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://aucocenter.org/home//events/Mid-Autumn-Harvest-Festival-Report-2013/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://auco-web.github.io/aucocenter.org/events/Mid-Autumn-Harvest-Festival-Report-2013/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://aucocenter.org/home//events/Vietnamese-Women/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://auco-web.github.io/aucocenter.org/events/Vietnamese-Women/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 </content>
 

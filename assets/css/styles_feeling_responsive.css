@@ -5939,7 +5939,7 @@ dialog[open] {
     background: #FFFFFF !important;
   }
 }
-/* line 115, /home/nghin/Documents/Jekyll/auco-web/aucocenter.org.dev/_sass/foundation-components/_side-nav.scss */
+/* line 116, /home/nghin/Documents/Jekyll/auco-web/aucocenter.org.dev/_sass/foundation-components/_side-nav.scss */
 .side-nav {
   display: block;
   margin: 0;
@@ -5948,31 +5948,31 @@ dialog[open] {
   list-style-position: outside;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-/* line 71, /home/nghin/Documents/Jekyll/auco-web/aucocenter.org.dev/_sass/foundation-components/_side-nav.scss */
+/* line 72, /home/nghin/Documents/Jekyll/auco-web/aucocenter.org.dev/_sass/foundation-components/_side-nav.scss */
 .side-nav li {
   margin: 0 0 0 0;
   font-size: 1rem;
   font-weight: normal;
 }
-/* line 76, /home/nghin/Documents/Jekyll/auco-web/aucocenter.org.dev/_sass/foundation-components/_side-nav.scss */
+/* line 77, /home/nghin/Documents/Jekyll/auco-web/aucocenter.org.dev/_sass/foundation-components/_side-nav.scss */
 .side-nav li a:not(.button) {
   display: block;
-  color: #B98916;
+  color: #C70216;
   margin: 0;
   padding: 0.4375rem 0.875rem;
 }
-/* line 81, /home/nghin/Documents/Jekyll/auco-web/aucocenter.org.dev/_sass/foundation-components/_side-nav.scss */
+/* line 82, /home/nghin/Documents/Jekyll/auco-web/aucocenter.org.dev/_sass/foundation-components/_side-nav.scss */
 .side-nav li a:not(.button):hover, .side-nav li a:not(.button):focus {
   background: rgba(0, 0, 0, 0.025);
   color: #1f2e37;
 }
-/* line 88, /home/nghin/Documents/Jekyll/auco-web/aucocenter.org.dev/_sass/foundation-components/_side-nav.scss */
+/* line 89, /home/nghin/Documents/Jekyll/auco-web/aucocenter.org.dev/_sass/foundation-components/_side-nav.scss */
 .side-nav li.active > a:first-child:not(.button) {
   color: #1f2e37;
   font-weight: normal;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-/* line 94, /home/nghin/Documents/Jekyll/auco-web/aucocenter.org.dev/_sass/foundation-components/_side-nav.scss */
+/* line 95, /home/nghin/Documents/Jekyll/auco-web/aucocenter.org.dev/_sass/foundation-components/_side-nav.scss */
 .side-nav li.divider {
   border-top: 1px solid;
   height: 0;
@@ -5980,9 +5980,9 @@ dialog[open] {
   list-style: none;
   border-top-color: #E4E4E4;
 }
-/* line 102, /home/nghin/Documents/Jekyll/auco-web/aucocenter.org.dev/_sass/foundation-components/_side-nav.scss */
+/* line 103, /home/nghin/Documents/Jekyll/auco-web/aucocenter.org.dev/_sass/foundation-components/_side-nav.scss */
 .side-nav li.heading {
-  color: #B98916;
+  color: #C70216;
   font-size: 1rem;
   font-weight: bold;
   text-transform: uppercase;
