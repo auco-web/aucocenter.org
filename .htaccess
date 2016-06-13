@@ -1,4 +1,19 @@
+# Options +FollowSymLinks
+# RewriteEngine on
+# RewriteCond %{REQUEST_URI} !(.*)home2 
+# RewriteRule ^(.*)$ home2/$1 [L]
+
 Options +FollowSymLinks
 RewriteEngine on
-RewriteCond %{REQUEST_URI} !(.*)home2 
+
+# RewriteRule   ^home/(.+)$   /home/$1   [L]
+# RewriteCond %{REQUEST_URI} !(.*)home2 
+# RewriteRule ^(.*)$ home2/$1 [L]
+
+RewriteCond %{REQUEST_URI} /home
+# RewriteRule home(.*) /old-auco$1 [L,PT]
+RewriteRule .* - [S=4]
+RewriteCond %{REQUEST_URI} /old-auco
+RewriteRule .* - [S=2]
+RewriteCond %{REQUEST_URI} !/home
 RewriteRule ^(.*)$ home2/$1 [L]
