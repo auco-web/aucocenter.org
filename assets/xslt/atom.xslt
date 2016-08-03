@@ -257,6 +257,11 @@ NO GOOGLE FONTS -->
 
                       
 
+                      <li><a href="http://aucocenter.org/programs/vietnamese-language-class-registration/">Registration</a></li>
+                    
+
+                      
+
                       <li><a href="http://aucocenter.org/directions/">Directions to Au Co</a></li>
                     
                   </ul>
