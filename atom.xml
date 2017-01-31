@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://aucocenter.org/</id>
 	<title>Au Co&amp;nbsp;&amp;mdash;&amp;nbsp;Vietnamese Cultural Center</title>
-	<updated>2017-01-23T14:58:24-08:00</updated>
+	<updated>2017-01-31T11:36:21-08:00</updated>
 
 	<subtitle>Au Co Vietnamese Cultural Center established to promote and preserve the language and the broad-minded humanity culture of the Vietnamese people</subtitle>
 
@@ -26,8 +26,59 @@
 	<link href="http://aucocenter.org/atom.xml" rel="self" type="application/rss+xml" />
 	<link href="http://aucocenter.org/" rel="alternate" type="text/html" />
 
-	<generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
+	<generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator>
 
+	
+	    
+		<entry>
+			<id>http://aucocenter.org/events/Tet-Celebration-at-Au-Co-Center/</id>
+			<title>Tet Celebration at Au Co Cultural Center - 2017</title>
+			<link href="http://aucocenter.org/events/Tet-Celebration-at-Au-Co-Center/" rel="alternate" type="text/html" title="Tet Celebration at Au Co Cultural Center - 2017" />
+			<updated>2017-01-30T00:00:00-08:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Nghi Nguyen</name>
+					
+					
+						<email>contact@vacsf.org</email>
+					
+					
+						<uri>http://vacsf.org/</uri>
+					
+				</author>
+			
+			<summary>Au Co Vietnamese Cultural Center annual lunar New Year (Tết) celebration. Trung Tâm Văn Hoá Âu Cơ liên hoan Tết Đinh Dậu (2017)</summary>
+			<content type="html" xml:base="http://aucocenter.org/events/Tet-Celebration-at-Au-Co-Center/">&lt;!--more--&gt;
+&lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
+
+  &lt;table style=&quot;border-color: #cccccc; margin-left: auto; margin-right: auto;&quot; border=&quot;1&quot; width=&quot;100%&quot;&gt;
+&lt;tbody&gt;
+&lt;tr style=&quot;padding: 2rem 0.625rem 0.5625rem 0.625rem&quot;&gt;
+&lt;td align=&quot;center&quot; style=&quot;padding: 2rem 0.625rem 0.5625rem 0.625rem&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe style=&quot;border:1px solid #cccccc&quot; src=&quot;https://www.youtube.com/embed/eHoCv7dR2ds&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;hr /&gt;
+
+  &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://aucocenter.org/events/Youth-Cultural-Education-Day/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+</content>
+
+			
+				<category term="events" />
+			
+			
+
+			<published>2017-01-30T00:00:00-08:00</published>
+		</entry>
+	    
 	
 	    
 		<entry>
@@ -78,6 +129,8 @@ When: Every 2nd Saturday of the month from 11:30 a.m. — 12:30 p.m.
     &lt;li&gt;Explore and experience arts and cultural activities in Vietnam and in the Vietnamese American communities to enhance their appreciation of the culture.&lt;/li&gt;
   &lt;/ul&gt;
 
+  &lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://aucocenter.org/events/Tet-Celebration-at-Au-Co-Center/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
+
   &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://aucocenter.org/events/Mid-Autumn-Harvest-Festival-2016/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;/div&gt;
@@ -113,7 +166,7 @@ When: Every 2nd Saturday of the month from 11:30 a.m. — 12:30 p.m.
 					
 				</author>
 			
-			<summary>You&#39;re cordially invited to attend the sixth Southeast Asian Arts &amp; Culture Exhibition celebrating the mid-autumn harvest season!</summary>
+			<summary>You're cordially invited to attend the sixth Southeast Asian Arts &amp; Culture Exhibition celebrating the mid-autumn harvest season!</summary>
 			<content type="html" xml:base="http://aucocenter.org/events/Mid-Autumn-Harvest-Festival-2016/">&lt;!--more--&gt;
 &lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
 
@@ -659,87 +712,6 @@ Asian Art Museum, free admission courtesy of Target&lt;/p&gt;
 			
 
 			<published>2015-04-04T00:00:00-07:00</published>
-		</entry>
-	    
-	
-	    
-		<entry>
-			<id>http://aucocenter.org/events/40-year-Refugee/</id>
-			<title>40 Years Refugees Exhibition</title>
-			<link href="http://aucocenter.org/events/40-year-Refugee/" rel="alternate" type="text/html" title="40 Years Refugees Exhibition" />
-			<updated>2015-02-08T00:00:00-08:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Nghi Nguyen</name>
-					
-					
-						<email>contact@vacsf.org</email>
-					
-					
-						<uri>http://vacsf.org/</uri>
-					
-				</author>
-			
-			<summary>An Exhibition to Commemorate Vietnamese Resettlement in the US. This exhibition marks the 40th anniversary of the diaspora of the Vietnamese people and refugee resettlement.  It includes stories of loss, of cultural identities of different generations struggling to co-exist, and of the process of rebuilding a new life in a foreign environment.  This exhibition shares the refugee experience by celebrating the progress of the Vietnamese people worldwide through photography, historical artifacts, a speaker panel, and cultural performances.  Speakers will include Mr. Dieu Khuong Huu, Mr. Phu Van Bui, and Ms. My Linh Nguyen, and cultural performers include the Su Viet Zithers and Master Vu Hong Thinh.</summary>
-			<content type="html" xml:base="http://aucocenter.org/events/40-year-Refugee/">&lt;!--more--&gt;
-&lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
-
-  &lt;h3 id=&quot;years---an-exhibition-to-commemorate-vietnamese-resettlement-in-the-us&quot;&gt;40 Years - An Exhibition to Commemorate Vietnamese Resettlement in the US&lt;/h3&gt;
-
-  &lt;p style=&quot;padding-left: 15px;&quot;&gt;&lt;em&gt;&lt;strong&gt;
-Sunday, February 8, 2015&lt;br /&gt;
-1 PM - 3:30PM&lt;br /&gt;
-Koret Auditorium&lt;br /&gt;
-San Francisco Public Library, 100 Larkin Street, San Francisco, CA94102
-&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-
-  &lt;p&gt;The Fall of Saigon occurred on April 30, 1975 when the North Vietnamese Communist Party captured Saigon, the capital city of South Vietnam.  In the years following the Fall of Saigon, a mass exodus occurred with the flight of millions of people, with many fleeing by boat (who were then referred to as “boat people”).&lt;/p&gt;
-
-  &lt;p&gt;This exhibition marks the 40th anniversary of the diaspora of the Vietnamese people and refugee resettlement.  It includes stories of loss, of cultural identities of different generations struggling to co-exist, and of the process of rebuilding a new life in a foreign environment.  This exhibition shares the refugee experience by celebrating the progress of the Vietnamese people worldwide through photography, historical artifacts, a speaker panel, and cultural performances.  Speakers will include Mr. Dieu Khuong Huu, Mr. Phu Van Bui, and Ms. My Linh Nguyen, and cultural performers include the Su Viet Zithers and Master Vu Hong Thinh.&lt;/p&gt;
-
-  &lt;p&gt;This exhibition will take place in the San Francisco Main Library from February 8 through April 4, 2015.  The speaker panel and cultural performance will take place in the Koret Auditorium on Sunday, February 8, 2015 from 1pm to 3pm.&lt;/p&gt;
-
-  &lt;p&gt;The exhibition is presented by the Au Co Vietnamese Cultural Center and individual contributors from the Vietnamese community.  Funding and sponsorship are provided by the San Francisco Arts Commission, the California Arts Council, and the San Francisco Main Library.  Artwork and materials are on loan from the Viet Museum (Viện Bảo Tàng Việt Nam) - and the museum of the Boat People &amp;amp; the Republic of Vietnam.&lt;/p&gt;
-
-  &lt;h3 id=&quot;full-length-video&quot;&gt;Full Length Video&lt;/h3&gt;
-  &lt;table style=&quot;border-color: #cccccc; margin-left: auto; margin-right: auto;&quot; border=&quot;1&quot; width=&quot;100%&quot;&gt;
-&lt;tbody&gt;
-&lt;tr style=&quot;padding: 2rem 0.625rem 0.5625rem 0.625rem&quot;&gt;
-&lt;td align=&quot;center&quot; style=&quot;padding: 2rem 0.625rem 0.5625rem 0.625rem&quot;&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe style=&quot;border:1px solid #cccccc&quot; src=&quot;https://www.youtube.com/embed/GBWYSpuGVtE&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-  &lt;p&gt;On September 26th, 2015, we invite you to attend the fifth Southeast Asian Arts &amp;amp; Culture Exhibition celebrating the harvest season! The Exhibition helps promote and preserve the arts and culture of the Southeast Asian American communities in San Francisco, and specifically highlights the Indo-Chinese refugee communities which have a history in the Tenderloin. We will have representatives from the Burmese, Cambodian, Laotian, Thai, and Vietnamese communities, as well as the collaboration of the SF Wushu Team participating again. Come celebrate the Mid-Autumn Harvest Festival with us and learn more about the Southeast Asian cultures!&lt;/p&gt;
-
-  &lt;p&gt;For more information, please contact:&lt;/p&gt;
-
-  &lt;ul&gt;
-    &lt;li&gt;Ms. Hang To at (415) 828-4754, or&lt;/li&gt;
-    &lt;li&gt;Mr. Sirch Chanthyasack at (415) 680-4027,&lt;/li&gt;
-    &lt;li&gt;or contact@seaacc-sf.org&lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;http://aucocenter.org/images/40th-CVRR-Poster-English.jpg&quot; /&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://aucocenter.org/events/Mid-Autumn-Harvest-Festival-2014-Report/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://aucocenter.org/events/Mid-Autumn-Harvest-Festival-2014/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-</content>
-
-			
-				<category term="events" />
-			
-			
-
-			<published>2015-02-08T00:00:00-08:00</published>
 		</entry>
 	    
 	
