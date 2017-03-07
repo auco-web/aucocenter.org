@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://aucocenter.org/</id>
 	<title>Au Co&amp;nbsp;&amp;mdash;&amp;nbsp;Vietnamese Cultural Center</title>
-	<updated>2017-02-24T00:49:30+00:00</updated>
+	<updated>2017-03-07T21:43:28+00:00</updated>
 
 	<subtitle>Au Co Vietnamese Cultural Center established to promote and preserve the language and the broad-minded humanity culture of the Vietnamese people</subtitle>
 
@@ -28,6 +28,71 @@
 
 	<generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator>
 
+	
+	    
+		<entry>
+			<id>http://aucocenter.org/events/42-Years-Viet-Refugee/</id>
+			<title>42 Years of Vietnamese Refugee Resettlement</title>
+			<link href="http://aucocenter.org/events/42-Years-Viet-Refugee/" rel="alternate" type="text/html" title="42 Years of Vietnamese Refugee Resettlement" />
+			<updated>2017-03-07T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Nghi Nguyen</name>
+					
+					
+						<email>contact@vacsf.org</email>
+					
+					
+						<uri>http://vacsf.org/</uri>
+					
+				</author>
+			
+			<summary>This public cultural event will feature an exhibition and program to mark the 42nd anniversary of the Vietnamese diaspora and refugee resettlement.</summary>
+			<content type="html" xml:base="http://aucocenter.org/events/42-Years-Viet-Refugee/">&lt;!--more--&gt;
+&lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
+
+  &lt;p&gt;This exhibition shares the refugee experience and celebrates the achievements of the Vietnamese people worldwide through photography, first-person narratives, and historical artifacts.  It includes stories of loss, of navigating cultural identities between different generations, and of the process of rebuilding a new life in a foreign environment. Speakers feature community scholars, social service workers, guest speakers from community partners, and literary artists. There will also be a presentation of the cultural ceremony “Lễ Giỗ Tổ Hùng Vương” honoring the Hùng Kings, founding fathers of Vietnam, as well as a cultural music performance by the Su Viet Zithers and a traditional folklore performance by San Francisco Vietnamese “Cải Lương” Folklore Group.&lt;/p&gt;
+
+  &lt;p&gt;&lt;img width=&quot;100%&quot; style=&quot;border: 1px solid #cccccc;&quot; src=&quot;/images/42-Years-Refugee.jpg&quot; /&gt;&lt;/p&gt;
+
+  &lt;!--
+&lt;table style=&quot;border-color: #cccccc; margin-left: auto; margin-right: auto;&quot; border=&quot;1&quot; width=&quot;100%&quot;&gt;
+&lt;tbody&gt;
+&lt;tr style=&quot;padding: 2rem 0.625rem 0.5625rem 0.625rem&quot;&gt;
+&lt;td align=&quot;center&quot; style=&quot;padding: 2rem 0.625rem 0.5625rem 0.625rem&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe style=&quot;border:1px solid #cccccc&quot; src=&quot;https://www.youtube.com/embed/-K26gMM9wY0&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table style=&quot;border-color: #cccccc; margin-left: auto; margin-right: auto;&quot; border=&quot;1&quot; width=&quot;100%&quot;&gt;
+&lt;tbody&gt;
+&lt;tr style=&quot;padding: 2rem 0.625rem 0.5625rem 0.625rem&quot;&gt;
+&lt;td align=&quot;center&quot; style=&quot;padding: 2rem 0.625rem 0.5625rem 0.625rem&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe style=&quot;border:1px solid #cccccc&quot; src=&quot;https://www.youtube.com/embed/fBNladQF_kg&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+--&gt;
+
+  &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://aucocenter.org/events/Thi-Ca-Su-Viet-5/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+</content>
+
+			
+				<category term="events" />
+			
+			
+
+			<published>2017-03-07T00:00:00+00:00</published>
+		</entry>
+	    
 	
 	    
 		<entry>
@@ -55,7 +120,7 @@
 &lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
 
   &lt;p&gt;&lt;span style=&quot;color: #C70216; font-weight: bold;&quot;&gt;Tickets for this event can be purchased here:&lt;/span&gt; &lt;a href=&quot;http://www.brownpapertickets.com/event/2813002&quot; target=&quot;_blank&quot;&gt;http://www.brownpapertickets.com/event/2813002&lt;/a&gt;&lt;br /&gt;
-&lt;span style=&quot;color: #555; font-style: italic;&quot;&gt;(Note: Please scroll down to bottom of page to view videos of past performances)&lt;/span&gt;&lt;/p&gt;
+&lt;!-- &lt;span style=&quot;color: #555; font-style: italic;&quot;&gt;(Note: Please scroll down to bottom of page to view videos of past performances)&lt;/span&gt; --&gt;&lt;/p&gt;
 
   &lt;p&gt;&lt;img width=&quot;100%&quot; style=&quot;border: 1px solid #cccccc;&quot; src=&quot;/images/Thi-Ca-Su-Viet-5-2017.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -80,6 +145,8 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 --&gt;
+
+  &lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://aucocenter.org/events/42-Years-Viet-Refugee/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
 
   &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://aucocenter.org/events/Tet-Celebration-at-Au-Co-Center/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -659,55 +726,6 @@ Where: Tenderloin Recreation Center — 570 Ellis Street, San Francisco CA 94109
 			
 
 			<published>2015-09-09T00:00:00+00:00</published>
-		</entry>
-	    
-	
-	    
-		<entry>
-			<id>http://aucocenter.org/events/Asian-Heritage-Street-Celebration-2015/</id>
-			<title>Asian Heritage Street Celebration - 2015</title>
-			<link href="http://aucocenter.org/events/Asian-Heritage-Street-Celebration-2015/" rel="alternate" type="text/html" title="Asian Heritage Street Celebration - 2015" />
-			<updated>2015-05-16T00:00:00+00:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Nghi Nguyen</name>
-					
-					
-						<email>contact@vacsf.org</email>
-					
-					
-						<uri>http://vacsf.org/</uri>
-					
-				</author>
-			
-			<summary>Explore the museum for free as a part of this annual program held during the Asian Heritage Street Celebration.</summary>
-			<content type="html" xml:base="http://aucocenter.org/events/Asian-Heritage-Street-Celebration-2015/">&lt;!--more--&gt;
-&lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
-
-  &lt;p&gt;Saturday, May 16, 11 AM–3:30 PM
-art activities: 11 AM–3 PM; Southeast Asian Cultural Showcase: 12:30–1:30 pm; CAAM cinema showcase: 2:30–3:30 PM
-Asian Art Museum, free admission courtesy of Target&lt;/p&gt;
-
-  &lt;p&gt;Explore the museum for free as a part of this annual program held during the Asian Heritage Street Celebration (http://asianfairsf.com/). We are also celebrating International Museum Day. This year’s theme, Museums for a Sustainable Society, recognizes the role of museums as important locations of cultural exchange and mutual understanding, enriching the lives of community members. In conjunction with the Asian Heritage Street Celebration and International Museum Day, the Tenderloin community’s Southeast Asian Arts &amp;amp; Culture Coalition (SEAACC) presents music and dance from Burma, Cambodia, Laos, Thailand and Vietnam. The SEAACC is an organization dedicated to the diverse cultures of the Tenderloin neighborhood. Other activities include the Center for Asian American Media’s cinema showcase, docent tours and hands-on art making that will bring the museum’s masterpieces to light.&lt;/p&gt;
-
-  &lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto; border: 1px solid #cccccc;&quot; width=&quot;100%&quot; src=&quot;http://74.220.215.61/~seaaccsf/en/images/2015/SEAACC-Street-Celebration-2015.jpg&quot; /&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://aucocenter.org/events/Mid-Autumn-Harvest-Festival-2015/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://aucocenter.org/events/Mid-Autumn-Harvest-Festival-2014-Report/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-</content>
-
-			
-				<category term="events" />
-			
-			
-
-			<published>2015-05-16T00:00:00+00:00</published>
 		</entry>
 	    
 	
