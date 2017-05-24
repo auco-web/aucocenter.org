@@ -1,0 +1,15 @@
+version: '1.0'
+steps:
+  build_image:
+    type: build
+    description: Building the image...
+    image-name: nghin/aucocenter.org.dev
+    tag: develop # ${{CF_BRANCH}}
+
+  perform_tests:
+    image_name: node:5
+    working_directory: ${{main_clone}}
+    description: Performing unit tests...
+    commands:
+      - gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 
+      - \curl -sSL https://get.rvm.io | bash -s stable --ruby
